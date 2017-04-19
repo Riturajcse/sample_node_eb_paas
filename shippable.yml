@@ -12,7 +12,7 @@ env:
   global:
     - FOO=FUBU
     - FO1=BUBU
-    - BOO=GUBU
+   # - BOO=GUBU
 
 #  matrix:
 #    - M1=ONE
